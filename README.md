@@ -1,7 +1,10 @@
 ### Olá, me chamo Cristiano Gallina!
-Em transição de carreira para Cientista de Dados.
-Entusiasmado e engajado pelo mundo científico, por negócios e tecnologia.
-Apaixonado por miniaturas.
+Em transição de carreira para Cientista de Dados.  
+Entusiasmado e engajado:  
+🧠 pelo mundo científico;   
+👨‍💼 por negócios;  
+💻 por tecnologia.    
+Apaixonado por miniaturas 🚗 🛩️ e off-road.
 
 <div style="display: "inline">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
