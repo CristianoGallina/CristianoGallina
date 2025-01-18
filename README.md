@@ -9,7 +9,11 @@ Apaixonado por miniaturas 🚗 🛩️ e off-road.
 <div style="display: "inline">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  &nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  &nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />          
   &nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  &nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+          
 
 ##
 
